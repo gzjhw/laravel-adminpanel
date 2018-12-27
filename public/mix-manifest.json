@@ -1,10 +1,10 @@
 {
+    "/assets/js/manifest.js": "/assets/js/manifest.js",
+    "/assets/js/vendor.js": "/assets/js/vendor.js",
     "/assets/js/admin.js": "/assets/js/admin.js",
     "/assets/js/app.js": "/assets/js/app.js",
     "/assets/css/frontend.css": "/assets/css/frontend.css",
     "/assets/css/backend.css": "/assets/css/backend.css",
-    "/assets/js/manifest.js": "/assets/js/manifest.js",
-    "/assets/js/vendor.js": "/assets/js/vendor.js",
     "/assets/js/vendor/mdb/mdb.min.js": "/assets/js/vendor/mdb/mdb.min.js",
     "/assets/js/vendor/mdb/datatables.min.js": "/assets/js/vendor/mdb/datatables.min.js"
 }
