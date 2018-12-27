@@ -177,7 +177,7 @@ npm run watch
 	
 	locate the **vhost** file of your web environment program and add another vhost
 
-	######In my case (wamp-server) the file is located in: C:\wamp64\bin\apache\apache2.4.35\conf\extra\httpd-vhosts.con
+	###### In my case (wamp-server) the file is located in: C:\wamp64\bin\apache\apache2.4.35\conf\extra\httpd-vhosts.con
 	
 	open the file in any text-editor and add:
 	``` 
@@ -195,7 +195,7 @@ npm run watch
 	As you see the webserver needs to point to the subfolder **public** inside the new **laravel-adminpanel** 
 	folder.
 	
-	######This makes sense, since this way, it is not too easy, to get access to the other private folders inside the laravel environment from the internet.
+	###### This makes sense, since this way, it is not too easy, to get access to the other private folders inside the laravel environment from the internet.
 	
 	Now we need to tell your computer about our new ServerName "laravel.copy" to use it as a webside.
 	This can be done in the hostfile of your OS.
@@ -217,15 +217,14 @@ npm run watch
 	start or restart your webserver ***(wamp or xampp or mamp)***
 	
 	open your browser and try http://laravel.copy
-	
-	
-	----------------------------------------------------------------------------------------
+		
+	```
 	NOTE: if you have MDBootstrap PRO simply copy / overwrite the 
 	content of your PRO-ZIP-Folder into i.e.
 
 	source C:\Users\Dennis\Downloads\MDB-Pro_4.6.0\*.*
 	destination C:\www\test\laravel-adminpanel\node_modules\mdbootstrap\*.*
-	----------------------------------------------------------------------------------------
+	```
 	
 
 
@@ -235,7 +234,7 @@ after all that, type in your terminal (command-prompt):
 $ npm run watch
 ```
 
-##Happy coding ;)
+## Happy coding ;)
  
 
 ## Description
